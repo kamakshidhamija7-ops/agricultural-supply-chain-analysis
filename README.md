@@ -54,14 +54,26 @@ The project was designed to analyze:
 ### Markup %
 Measures the percentage increase from wholesale to retail price.
 
+<img src="markuppct.jpeg" width="700">
+
 ### Farmer's Share %
 Represents the percentage of the consumer price received by farmers.
+
+<img src="farmershare.jpeg" width="800">
 
 ### Price Gap
 Difference between wholesale and retail prices.
 
+<img src="wholesalevsretail.jpeg" width="800">
+
+Retail prices consistently exceeded wholesale prices across all crops, highlighting strong intermediary margins and supply chain inefficiencies.
+
 ### Volatility
 Measures fluctuations in crop prices across dates and seasons.
+
+<img src="volatility.jpeg" width="800">
+
+Highly perishable vegetables showed significantly greater price volatility compared to staple crops such as rice and wheat.
 
 ## Key Findings
 
@@ -75,8 +87,6 @@ Measures fluctuations in crop prices across dates and seasons.
 
 ## Correlation Insights
 
-
-
 The analysis showed:
 
 - Negative correlation between shelf life and markup percentage.
@@ -88,6 +98,8 @@ The analysis showed:
 ---
 
 ## KPI Analysis
+
+<img src="kpiindicators.jpeg" width="700">
 
 The dashboard includes:
 - Highest markup crop
