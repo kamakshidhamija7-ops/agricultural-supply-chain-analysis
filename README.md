@@ -7,6 +7,8 @@ Using market price data from Agmarknet and FSD Delhi, the analysis explores why 
 
 The project combines data analysis, visualization, KPI tracking, correlation analysis, and policy recommendations to examine supply chain inefficiencies across different crops and seasons.
 
+---
+
 ## Objectives
 The project was designed to analyze:
 
@@ -17,6 +19,8 @@ The project was designed to analyze:
 - Supply chain inefficiencies
 - Impact of perishability and transport burden on pricing
 
+---
+
 ## Tools & Techniques Used
 
 - Microsoft Excel
@@ -26,6 +30,8 @@ The project was designed to analyze:
 - Scatter Plots & Bar Charts
 - Correlation Analysis
 - Data Cleaning & Transformation
+
+  ---
 
 ## Dataset Information
 
@@ -49,6 +55,8 @@ The project was designed to analyze:
 - Rabi
 - Zaid
 
+---
+
 ## Key Metrics Calculated
 
 ### Markup %
@@ -56,10 +64,14 @@ Measures the percentage increase from wholesale to retail price.
 
 <img src="markuppct.jpeg" width="700">
 
+---
+
 ### Farmer's Share %
 Represents the percentage of the consumer price received by farmers.
 
-<img src="farmershare.jpeg" width="800">
+<img src="farmershare.jpeg" width="500">
+
+---
 
 ### Price Gap
 Difference between wholesale and retail prices.
@@ -68,12 +80,16 @@ Difference between wholesale and retail prices.
 
 Retail prices consistently exceeded wholesale prices across all crops, highlighting strong intermediary margins and supply chain inefficiencies.
 
+---
+
 ### Volatility
 Measures fluctuations in crop prices across dates and seasons.
 
 <img src="volatility.jpeg" width="800">
 
 Highly perishable vegetables showed significantly greater price volatility compared to staple crops such as rice and wheat.
+
+---
 
 ## Key Findings
 
@@ -87,6 +103,8 @@ Highly perishable vegetables showed significantly greater price volatility compa
 
 ## Correlation Insights
 
+<img src="correlation.jpeg" width="700">
+
 The analysis showed:
 
 - Negative correlation between shelf life and markup percentage.
@@ -95,11 +113,10 @@ The analysis showed:
 - Positive correlation between transport burden and markup percentage.
   - Higher logistics difficulty → Higher retail inflation
 
----
 
 ## KPI Analysis
 
-<img src="kpiindicators.jpeg" width="700">
+<img src="kpiindicators.jpeg" width="500">
 
 The dashboard includes:
 - Highest markup crop
